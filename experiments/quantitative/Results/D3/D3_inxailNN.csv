@@ -1,0 +1,12 @@
+lNN,weak,0,5.461
+lNN,weak,0.0001,4.869
+lNN,weak,0.001,2.899
+lNN,weak,0.01,0.375
+lNN,normal,0,5.507
+lNN,normal,0.0001,5.153
+lNN,normal,0.001,3.709
+lNN,normal,0.01,0.954
+lNN,strong,0,5.732
+lNN,strong,0.0001,5.561
+lNN,strong,0.001,4.55
+lNN,strong,0.01,1.827

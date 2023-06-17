@@ -1,0 +1,12 @@
+cNN,weak,0,16.439
+cNN,weak,0.0001,15.598
+cNN,weak,0.001,12.533
+cNN,weak,0.01,5.432
+cNN,normal,0,19.648
+cNN,normal,0.0001,19.201
+cNN,normal,0.001,17.141
+cNN,normal,0.01,10.705
+cNN,strong,0,22.543
+cNN,strong,0.0001,22.32
+cNN,strong,0.001,21.105
+cNN,strong,0.01,16.064

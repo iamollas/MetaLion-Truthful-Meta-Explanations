@@ -1,0 +1,15 @@
+lNN,weak,0,12.0,12.0
+lNN,weak,0.0001,12.0,12.0
+lNN,weak,0.001,12.0,12.0
+lNN,weak,0.01,12.0,12.0
+lNN,weak,0.1,12.0,12.0
+lNN,normal,0,12.0,12.0
+lNN,normal,0.0001,12.0,12.0
+lNN,normal,0.001,12.0,12.0
+lNN,normal,0.01,12.0,12.0
+lNN,normal,0.1,12.0,12.0
+lNN,strong,0,12.0,12.0
+lNN,strong,0.0001,12.0,12.0
+lNN,strong,0.001,12.0,12.0
+lNN,strong,0.01,12.0,12.0
+lNN,strong,0.1,12.0,12.0
