@@ -10,7 +10,7 @@ a person unselfishly concerned for or devoted to the welfare of others (opposed 
 1. Please install the requirements as the can be found in the requirements.txt.zip file
 2. Download the trained models, data, preprocessed data and interpretation weights, in each folder. Check the dataset folder and the experiments/quantitative folders
 
-## Contributors on Altruist
+## Contributors on MetaLion
 Name | Email
 --- | ---
 [Ioannis Mollas](https://intelligence.csd.auth.gr/people/ioannis-mollas/) | iamollas@csd.auth.gr
@@ -23,16 +23,23 @@ Name | Email
 2. [LionForests](https://github.com/iamollas/LionLearn/tree/master/LionForests): Local Interpretation Of raNdom FORESts through paTh Selection
 
 ## Citation
-Please cite our previous paper, till this one gets published, if you use it in your work or experiments :D:
+Please cite our preprint, or our preliminary paper, till this one gets published, if you use it in your work or experiments :D:
 ```
-@misc{altruist,
-      title={Altruist: Argumentative Explanations through Local Interpretations of Predictive Models}, 
+@misc{mollas2022truthful,
+      title={Truthful Meta-Explanations for Local Interpretability of Machine Learning Models}, 
       author={Ioannis Mollas and Nick Bassiliades and Grigorios Tsoumakas},
-      year={2020},
-      eprint={2010.07650},
-      note={To appear in SETN2022 proceedings},
+      year={2022},
+      eprint={2212.03513},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+
+@inproceedings{mollas2022altruist,
+  title={Altruist: argumentative explanations through local interpretations of predictive models},
+  author={Mollas, Ioannis and Bassiliades, Nick and Tsoumakas, Grigorios},
+  booktitle={Proceedings of the 12th Hellenic Conference on Artificial Intelligence},
+  pages={1--10},
+  year={2022}
 }
 ```
 
